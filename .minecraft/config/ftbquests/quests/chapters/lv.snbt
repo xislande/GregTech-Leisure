@@ -110,7 +110,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "13DADE13289E59D0"
-				title: "低压LV"
+				title: "LV低压"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -171,6 +171,7 @@
 					type: "item"
 				}
 			]
+                        title: "这就是辊机拷啊"
 			x: 3.0d
 			y: -4.0d
 		}
@@ -208,7 +209,7 @@
 				id: "3DA43E9650F117DD"
 				item: "gtceu:lv_polarizer"
 				type: "item"
-			}]
+                        }]
 			x: -2.0d
 			y: 2.0d
 		}
